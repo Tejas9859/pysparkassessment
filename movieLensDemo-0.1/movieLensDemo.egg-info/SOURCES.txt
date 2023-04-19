@@ -1,0 +1,7 @@
+main.py
+setup.py
+movieLensDemo.egg-info/PKG-INFO
+movieLensDemo.egg-info/SOURCES.txt
+movieLensDemo.egg-info/dependency_links.txt
+movieLensDemo.egg-info/requires.txt
+movieLensDemo.egg-info/top_level.txt
